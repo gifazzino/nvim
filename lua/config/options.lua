@@ -25,3 +25,7 @@ vim.opt.signcolumn = "yes"
 
 -- Minimal number of screen lines to keep above and below the cursor.
 vim.opt.scrolloff = 4
+
+-- Use symbols for whitespaces
+vim.opt.list = true
+vim.opt.listchars = { tab = "» ", trail = "·", nbsp = "␣" }
