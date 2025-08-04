@@ -8,7 +8,7 @@ return {
 			ensure_installed = { "bash", "c", "cpp", "python", "query", "csv", "markdown", "markdown_inline", "vim", "yaml", "lua"},
 			sync_install = false,
 			highlight = { enable = true },
-			indent = { enable = true },  
+			indent = { enable = true },
 			incremental_selection = {
 				enable = true,
 				keymaps = {
