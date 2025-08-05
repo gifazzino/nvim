@@ -11,3 +11,4 @@ Reference [videos](https://www.youtube.com/watch?v=g1gyYttzxcI&list=PLy68GuC77sU
 * `vim-sleuth` automatic tab adjusting
 * `treesitter.nvim` (and objects) text parser
 * `which-key.nvim` get info on which key combo does what
+* `fzf-lua.lua` fuzzy searcher
