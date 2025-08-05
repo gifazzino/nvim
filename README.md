@@ -10,3 +10,4 @@ Reference [videos](https://www.youtube.com/watch?v=g1gyYttzxcI&list=PLy68GuC77sU
 * `oil.nvim` file system explorer
 * `vim-sleuth` automatic tab adjusting
 * `treesitter.nvim` (and objects) text parser
+* `which-key.nvim` get info on which key combo does what
