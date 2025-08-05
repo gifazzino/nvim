@@ -1,4 +1,4 @@
-vim.opt.expandtab = true -- Convert tabs to spaces
+vim.opt.expandtab = false -- Convert tabs to spaces
 vim.opt.shiftwidth = 2 -- Amount to indent with << and >>
 vim.opt.tabstop = 2 -- How many spaces are shown per Tab
 vim.opt.softtabstop = 2 -- How many spaces are applied when pressing Tab
