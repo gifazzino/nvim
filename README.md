@@ -14,3 +14,4 @@ Reference [videos](https://www.youtube.com/watch?v=g1gyYttzxcI&list=PLy68GuC77sU
 * `fzf-lua.lua` fuzzy searcher
 * `project.nvim` find root dir of project
 * `lsp.nvim` Language Service Protocols
+* `dressing.nvim` make UI elements look nicer
