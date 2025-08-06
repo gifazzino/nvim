@@ -165,9 +165,9 @@ return {
       local servers = {
         bashls = {},
         marksman = {},
-        -- clangd = {},
-        -- gopls = {},
-        -- pyright = {},
+        clangd = {},
+        jsonls = {},
+        pyright = {},
         -- rust_analyzer = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
         --
