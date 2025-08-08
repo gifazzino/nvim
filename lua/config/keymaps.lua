@@ -7,3 +7,5 @@ vim.keymap.set("n", "<leader>cf", function()
 		lsp_format = "fallback",
 	})
 end, { desc = "Format current file" })
+vim.keymap.set("n", "<leader>h", "<C-w>h", { desc = "Go to the split on the right" })
+vim.keymap.set("n", "<leader>l", "<C-w>l", { desc = "Go to the split on the left" })
