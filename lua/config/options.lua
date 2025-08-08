@@ -1,11 +1,11 @@
-vim.opt.expandtab = false -- Convert tabs to spaces
-vim.opt.shiftwidth = 2 -- Amount to indent with << and >>
-vim.opt.tabstop = 2 -- How many spaces are shown per Tab
-vim.opt.softtabstop = 2 -- How many spaces are applied when pressing Tab
+vim.opt.expandtab = true -- Convert tabs to spaces
+vim.opt.shiftwidth = 4 -- Amount to indent with << and >>
+vim.opt.tabstop = 4-- How many spaces are shown per Tab
+vim.opt.softtabstop = 4 -- How many spaces are applied when pressing Tab
 
 vim.opt.smarttab = true
 vim.opt.smartindent = true
-vim.opt.autoindent = false-- Keep identation from previous line
+vim.opt.autoindent = true -- Keep identation from previous line
 
 -- Enable break indent
 vim.opt.breakindent = true
