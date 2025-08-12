@@ -17,3 +17,4 @@ Reference [videos](https://www.youtube.com/watch?v=g1gyYttzxcI&list=PLy68GuC77sU
 * `dressing.nvim` make UI elements look nicer
 * `vim-fugitive` use git commands inside nvim
 * `conform.nvim` code formatter
+* `blink.cmp` autocompletion
