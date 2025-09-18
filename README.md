@@ -5,7 +5,7 @@ Reference [videos](https://www.youtube.com/watch?v=g1gyYttzxcI&list=PLy68GuC77sU
 
 ## Plugins installed:
 * `lazy.nvim`, package manager
-* `onedark.nvim` color scheme
+* `solarized.nvim` color scheme
 * `mini.statusline` cuter status line
 * `oil.nvim` file system explorer
 * `vim-sleuth` automatic tab adjusting
